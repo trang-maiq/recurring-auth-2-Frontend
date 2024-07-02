@@ -1,0 +1,65 @@
+{
+  "components": [
+    {
+      "id": "BannerWithButton",
+      "variables": {
+        "eventDescription": "Join our inspiring Software Company event and discover future innovations.",
+        "eventName": "Company Kickoff 2025",
+        "linkText": "Join Us Now"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Experience the Future of Software with Software Company – Transforming Ideas into Reality, Seamlessly",
+        "title": "Empowering Innovation, One Line of Code at a Time"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Experience the Future of Software with Software Company – Transforming Ideas into Reality, Seamlessly",
+        "title": "Empowering Innovation, One Line of Code at a Time"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Experience the Future of Software with Software Company – Transforming Ideas into Reality, Seamlessly",
+        "title": "Empowering Innovation, One Line of Code at a Time"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Experience the Future of Software with Software Company – Transforming Ideas into Reality, Seamlessly",
+        "title": "Empowering Innovation, One Line of Code at a Time"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Experience the Future of Software with Software Company – Transforming Ideas into Reality, Seamlessly",
+        "title": "Empowering Innovation, One Line of Code at a Time"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Experience the Future of Software with Software Company – Transforming Ideas into Reality, Seamlessly",
+        "title": "Empowering Innovation, One Line of Code at a Time"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Experience the Future of Software with Software Company – Transforming Ideas into Reality, Seamlessly",
+        "title": "Empowering Innovation, One Line of Code at a Time"
+      }
+    }
+  ],
+  "theme": "neo-brutal",
+  "font": "",
+  "title": "Empowering Innovation, One Line of Code at a Time",
+  "subtitle": "Experience the Future of Software with Software Company – Transforming Ideas into Reality, Seamlessly"
+}
